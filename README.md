@@ -509,9 +509,13 @@ contact.html
 
 ## OUTPUT:
 ![alt text](softweb/softweb/admin.png)
+
 ![alt text](softweb/softweb/contact.png)
+
 ![alt text](softweb/softweb/home.png)
+
 ![alt text](softweb/softweb/menu.png)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
